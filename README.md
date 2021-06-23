@@ -1,3 +1,9 @@
+`This is a fork. The original project is located at https://github.com/nvie/git-toolbelt.`
+
+`It is made for MacOS. Maybe I'll try to make it usable for Windows.`
+
+
+
 <div align="center">
   <img src="./img/git-toolbelt.png" width="376" height="409" alt="git-toolbelt logo" /><br>
 </div>
